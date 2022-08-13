@@ -5,6 +5,8 @@
 
 ## How it work?
 
+## Examples
+
 ## Credits
 ### [Ahmet Burak İmal](https://github.com/ahmetburaki "A. Burak İmal")
 
