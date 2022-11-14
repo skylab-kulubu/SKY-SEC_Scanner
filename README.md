@@ -4,7 +4,7 @@
 ## What is the purpose?
 In addition to offering both ease of use and multiple options on a single terminal; at the same time, I basically learned how exactly these tools work.
 
-## How can i run this tool?
+## How can I run this tool?
 
 ```bash 
 git clone https://github.com/ahmetburaki/SKY-SEC_Scanner.git
