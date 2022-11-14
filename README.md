@@ -6,17 +6,17 @@ In addition to offering both ease of use and multiple options on a single termin
 
 ## How it work?
 
-'''bash 
+```bash 
 git clone https://github.com/ahmetburaki/SKY-SEC_Scanner.git
 cd SKY-SEC_Scanner
 python3 SKYSEC_Scanners_Tool.py or python SKYSEC_Scanners_Tool.py
-'''
+```
 
 ## Examples with Photos
 
-### ![mode_selection]()
-### ![port_scanner]()
-### ![dir_search]()
+### ![mode_selection](https://github.com/ahmetburaki/SKY-SEC_Scanner/blob/main/Examples_with_Photos/mode_selection.png)
+### ![port_scanner](https://github.com/ahmetburaki/SKY-SEC_Scanner/blob/main/Examples_with_Photos/port_scanner.png)
+### ![dir_search](https://github.com/ahmetburaki/SKY-SEC_Scanner/blob/main/Examples_with_Photos/dir_search.png)
 
 If you want to see more tool, you can use it :)
 
