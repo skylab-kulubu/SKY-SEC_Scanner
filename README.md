@@ -1,15 +1,29 @@
 # SKY-SEC Scanners Tool
-#### by SKY SEC Cyber Security Team 
+#### by SKY-SEC Cyber Security Team 
 
 ## What is the purpose?
+In addition to offering both ease of use and multiple options on a single terminal; at the same time, I basically learned how exactly these tools work.
 
 ## How it work?
 
-## Examples
+'''bash 
+git clone https://github.com/ahmetburaki/SKY-SEC_Scanner.git
+cd SKY-SEC_Scanner
+python3 SKYSEC_Scanners_Tool.py or python SKYSEC_Scanners_Tool.py
+'''
+
+## Examples with Photos
+
+### ![mode_selection]()
+### ![port_scanner]()
+### ![dir_search]()
+
+If you want to see more tool, you can use it :)
+
 
 ## Credits
 ### [Ahmet Burak İmal](https://github.com/ahmetburaki "A. Burak İmal")
 
 ## To know more about us
-### [SKYLAB](http://yildizskylab.com/ "SKYLAB Homepage")
-### ![logo](http://yildizskylab.com/static/media/yildiz.9af48539cdd43090e41441c69e7b19ad.svg)
+### [SKYLAB](http://yildizskylab.com/ "SKY LAB Homepage")
+### ![logo](https://yildizskylab.com/static/media/yildiz_50.a5779b900a9465eb5c4d.png)
