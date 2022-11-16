@@ -1,6 +1,13 @@
 # SKY-SEC Scanners Tool
 #### by SKY-SEC Cyber Security Team 
 
+<div align="center">
+    <p align="center">
+        <a href="mailto:ahmetimalf2@gmail.com">Report Bug</a>
+    </p>
+</div>
+
+
 ## What is the purpose?
 In addition to offering both ease of use and multiple options on a single terminal; at the same time, I basically learned how exactly these tools work.
 
