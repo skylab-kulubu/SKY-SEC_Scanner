@@ -8,6 +8,35 @@
 </div>
 
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">What Is The Purpose?</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+        <a href="#getting-started">How can I run this tool?</a>
+        <a href="#getting-started">Examples with Photos</a>    
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contact">To Know More About Us</a></li>    
+  </ol>
+</details>
+
+## About The Project
+
+### Built With
+
 ## What is the purpose?
 In addition to offering both ease of use and multiple options on a single terminal; at the same time, I basically learned how exactly these tools work.
 
@@ -28,9 +57,10 @@ python3 SKYSEC_Scanners_Tool.py or python SKYSEC_Scanners_Tool.py
 If you want to see more tool, you can use it :)
 
 
-## Credits
-### [Ahmet Burak İmal](https://github.com/ahmetburaki "A. Burak İmal")
+## Licanse
 
-## To know more about us
+## Contact
+
+## To Know More About Us
 ### [SKYLAB](http://yildizskylab.com/ "SKY LAB Homepage")
 ### ![logo](https://yildizskylab.com/static/media/yildiz_50.a5779b900a9465eb5c4d.png)
