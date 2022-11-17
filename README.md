@@ -1,10 +1,7 @@
 <a name="readme-top"></a>
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/ahmetburakimal]
-
 # SKY-SEC Scanners Tool
 #### by SKY-SEC Cyber Security Team 
-
 
 
 <div align="center">
@@ -74,6 +71,14 @@ If you want to see more tool, you can use it :)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
+<p>
+  <a href="https://www.linkedin.com/ahmetburakimal" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/ahmetburaki" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
