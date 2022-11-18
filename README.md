@@ -22,9 +22,14 @@
         <li><a href="what-is-the-purpose">What Is The Purpose?</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a>
-        <li><a href="#usage">How can I run this tool?</a><li>
-        <li><a href="#usage">Examples with Photos</a></li>
+    <li>
+      <a href="#usage">Usage</a>
+      <ul>
+        <li><a href="how-can-i-run-this-tool">How Can I Run This Tool?</a></li>
+      </ul>
+      <ul>
+        <li><a href="examples-with-photos">Examples with Photos</a></li>
+      </ul>
     </li> 
     <li><a href="#contact">Contact</a></li>
     <li><a href="#to-know-more-about-us">To Know More About Us</a></li>    
