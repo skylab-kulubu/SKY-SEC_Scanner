@@ -63,13 +63,10 @@ python3 SKYSEC_Scanners_Tool.py or python SKYSEC_Scanners_Tool.py
 ### Examples with Photos
 
 ### ![mode_selection](https://github.com/ahmetburaki/SKY-SEC_Scanner/blob/main/Examples_with_Photos/mode_selection.png)
+
 ### ![port_scanner](https://github.com/ahmetburaki/SKY-SEC_Scanner/blob/main/Examples_with_Photos/port_scanner.png)
 
-If you want to see more tool, you can use it :)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Licanse
+If you want to see more tool, you can use it. :)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
