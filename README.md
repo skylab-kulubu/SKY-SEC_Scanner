@@ -17,8 +17,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
-        <li><a href="#built-with">What Is The Purpose?</a></li>
+        <li><a href="what-is-the-purpose">What Is The Purpose?</a></li>
       </ul>
     </li>
     <li>
@@ -40,8 +39,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
-
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/ahmetburaki/)
 
@@ -50,7 +47,9 @@
 ## What is the purpose?
 In addition to offering both ease of use and multiple options on a single terminal; at the same time, I basically learned how exactly these tools work.
 
-## How can I run this tool?
+## Usage
+
+### How can I run this tool?
 
 ```bash 
 git clone https://github.com/ahmetburaki/SKY-SEC_Scanner.git
@@ -59,11 +58,10 @@ python3 SKYSEC_Scanners_Tool.py or python SKYSEC_Scanners_Tool.py
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Examples with Photos
+### Examples with Photos
 
 ### ![mode_selection](https://github.com/ahmetburaki/SKY-SEC_Scanner/blob/main/Examples_with_Photos/mode_selection.png)
 ### ![port_scanner](https://github.com/ahmetburaki/SKY-SEC_Scanner/blob/main/Examples_with_Photos/port_scanner.png)
-### ![dir_search](https://github.com/ahmetburaki/SKY-SEC_Scanner/blob/main/Examples_with_Photos/dir_search.png)
 
 If you want to see more tool, you can use it :)
 
