@@ -10,6 +10,8 @@
     </p>
 </div>
 
+[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/ahmetburaki/)
 
 <details>
   <summary>Table of Contents</summary>
@@ -20,18 +22,12 @@
         <li><a href="what-is-the-purpose">What Is The Purpose?</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-        <a href="#getting-started">How can I run this tool?</a>
-        <a href="#getting-started">Examples with Photos</a>    
-    <li><a href="#license">License</a></li>
+    <li><a href="#usage">Usage</a>
+        <li><a href="#usage">How can I run this tool?</a><li>
+        <li><a href="#usage">Examples with Photos</a></li>
+    </li> 
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#contact">To Know More About Us</a></li>    
+    <li><a href="#to-know-more-about-us">To Know More About Us</a></li>    
   </ol>
 </details>
 
@@ -41,12 +37,7 @@ In this project, the existing tools were redeveloped (simpler version) and then 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/ahmetburaki/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## What is the purpose?
+### What is the purpose?
 In addition to offering both ease of use and multiple options on a single terminal; at the same time, I basically learned how exactly these tools work.
 
 ## Usage
