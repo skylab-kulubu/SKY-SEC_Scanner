@@ -71,7 +71,7 @@ If you want to see more tool, you can use it. :)
   <a href="https://www.linkedin.com/in/ahmetburakimal" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/ahmetburaki" rel="nofollow noreferrer">
+  <a href="https://github.com/ahmetburaki/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a>
 </p>
