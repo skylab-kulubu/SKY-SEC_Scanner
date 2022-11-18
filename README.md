@@ -42,6 +42,9 @@
 
 ### Built With
 
+[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/ahmetburaki/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## What is the purpose?
