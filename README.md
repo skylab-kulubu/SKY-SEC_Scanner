@@ -37,6 +37,8 @@
 
 ## About The Project
 
+In this project, the existing tools were redeveloped (simpler version) and then combined.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -73,7 +75,7 @@ If you want to see more tool, you can use it :)
 
 ## Contact
 <p>
-  <a href="https://www.linkedin.com/ahmetburakimal" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/ahmetburakimal" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/ahmetburaki" rel="nofollow noreferrer">
@@ -83,6 +85,5 @@ If you want to see more tool, you can use it :)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## To Know More About Us
+## To Know More About Our Student Branch 
 ### [SKYLAB](http://yildizskylab.com/ "SKY LAB Homepage")
-### ![logo](https://yildizskylab.com/static/media/yildiz_50.a5779b900a9465eb5c4d.png)
